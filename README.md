@@ -1,12 +1,6 @@
 # BOTLOGIN
 # requirements
-#
-# update code python3 setup install 
-# apt update
-# apt install git
-# pkg install nano
-# git clone github.com/Cupzaa/requirements.git
-# cd requirements && python3 -m pip install -r requirements.txt
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gf6FS7IUljU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #
 # ╔══════════════════════
 # ╠❂͜͡☬➣😈ຜู้คุມกาມlทW😈
